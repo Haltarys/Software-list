@@ -1,5 +1,5 @@
 # Software-list
-List of useful softwares to install (for me)
+List of useful (to me) softwares to install.
 
 ## List
 
