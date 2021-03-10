@@ -31,3 +31,4 @@ List of useful (to me) softwares to install.
 - [DD Saver (to be remade)](https://github.com/Haltarys/Darkest-Dungeon-Saver)
 - [Postman](https://www.postman.com/downloads/)
 - [Notepad++](https://notepad-plus-plus.org/)
+- [Docker Desktop](https://www.docker.com/products/docker-desktop)
