@@ -19,7 +19,7 @@ List of useful (to me) softwares to install.
 - [Everything](https://www.voidtools.com/)
 - [GIMP](https://www.gimp.org/)
 - [Git](https://git-scm.com/downloads)
-- Spotify (Microsoft Store)
+- [Spotify (Microsoft Store)](https://www.microsoft.com/en-us/p/spotify-music/9ncbcszsjrsb)
 - [Discord](https://discord.com/)
 - [Steam](https://store.steampowered.com/)
 - [VLC](https://www.videolan.org/vlc/)
